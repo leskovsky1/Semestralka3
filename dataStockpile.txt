@@ -1,0 +1,2 @@
+3 250.5 480.5 Oranzova LG WashingMashine 250 false 1000
+5 250.5 10.7 Fialova Xiaomi Mobile 11.2 158x193 150 250

@@ -1,0 +1,3 @@
+1 100.2 150.9 Biela Samsung WashingMashine 150 true 1500
+4 258.3 10.3 Ruzova LG Mobile 10.2 158x193 10 150
+2 110.5 350.4 Cierna Nokia WashingMashine 200 true 1500
